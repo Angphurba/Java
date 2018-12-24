@@ -1,3 +1,3 @@
 # Java
 Java Projects
-// Author @Angphurba
+// author @Angphurba
