@@ -1,5 +1,5 @@
 # Java
 Java Projects
 /*
-Academic projects of Object-Oriented Programming Course
+Converts Temperature from C to F and F to C
 */
